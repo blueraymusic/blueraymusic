@@ -1,6 +1,6 @@
 # Hi there, I'm Adel aka Blueray 👋
 
-I’m a Computer Science student at Missouri S&T with a passion for AI and chess.  
+I’m a Computer Science student with a passion for AI and chess.  
 Always curious, always learning.  
 
 ---
