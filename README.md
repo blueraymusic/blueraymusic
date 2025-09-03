@@ -7,13 +7,11 @@ Always curious, always learning.
 
 ## About Me
 - Freshman studying Computer Science  
-- Exploring deep learning and multimodal AI  
+- Exploring deep learning and transformers
 - Chess player who enjoys strategy on and off the board  
 - Open to collaboration and new ideas  
 
 ---
-
-
                                                    .--.
                                                   |o_o |           
                                                   |:_/ |   +---+---+---+---+
