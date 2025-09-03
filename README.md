@@ -13,7 +13,7 @@ Always curious, always learning.
 
 ---
                                                    .--.
-                                                  |o_o |           
+                                                  |o_o |   < "Wisdom comes from curiosity."        
                                                   |:_/ |   +---+---+---+---+
                                                  //   \ \  +---+---+---+
                                                 (|     | ) +---+---+
